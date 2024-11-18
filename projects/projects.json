@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Cloudsens",
+    "desc": "CMS & Campaign tracking features with Salesforece CRM Integration",
+    "image": "cloudsens",
+    "category": "cms & campaign tracking",
+    "links": {
+      "view": "https://cloudsens.ai"
+    }
+  },
+  {
+    "name": "Tryvium",
+    "desc": "Tryvium is the portfolio website built with wordpress and sales crm integration",
+    "image": "tryvium",
+    "category": "wordpress",
+    "links": {
+      "view": "https://tryvium.ai"
+    }
+  },
+  {
+    "name": "blog.sensiple.com",
+    "desc": "It is a blogging website for the company to gain visitors",
+    "image": "blog",
+    "category": "wordpress",
+    "links": {
+      "view": "https://blog.sensiple.com"
+    }
+  }
+]
