@@ -43,7 +43,7 @@ $(document).ready(function () {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Cheran Sengodan";
+    document.title = "Portfolio | Vignesh Ramesh";
     $("#favicon").attr("href", "assets/img/favicon.png");
   } else {
     document.title = "Come Back To Portfolio";
