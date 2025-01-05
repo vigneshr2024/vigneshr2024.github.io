@@ -57,7 +57,7 @@ var typed = new Typed(".typing-text", {
     "Web Designer",
     "Front-End Developer",
     "Web Developer",
-    "Backend Developer",
+    "Back-End Developer",
     "Wordpress Developer",
     "Drupal Developer",
   ],
