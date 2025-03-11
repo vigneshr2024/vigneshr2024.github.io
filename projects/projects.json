@@ -1,11 +1,38 @@
 [
   {
+    "name": "Blog.Cloudsens",
+    "desc": "It is a blogging website for the company to gain visitors",
+    "image": "blog-cloudsens",
+    "category": "wordpress",
+    "links": {
+      "view": "https://www.blog.cloudsens.ai/"
+    }
+  },
+  {
     "name": "Cloudsens",
     "desc": "CMS & Campaign tracking features with Salesforece CRM Integration",
     "image": "cloudsens",
     "category": "cms & campaign tracking",
     "links": {
-      "view": "https://cloudsens.ai"
+      "view": "https://www.cloudsens.ai"
+    }
+  },
+  {
+    "name": "N-Queens Problem Solver",
+    "desc": "Algorithmic solution to place queens on a chessboard so no two attack.",
+    "image": "queens-game",
+    "category": "html/css & js",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Quiz Game",
+    "desc": "Real-time quiz game backend with WebSockets, Node.js, and MongoDB.",
+    "image": "quizgame",
+    "category": "express & node",
+    "links": {
+      "view": "https://github.com/vigneshr2024/QuizGame"
     }
   },
   {
@@ -14,11 +41,11 @@
     "image": "tryvium",
     "category": "wordpress",
     "links": {
-      "view": "https://tryvium.ai"
+      "view": "https://www.tryvium.ai"
     }
   },
   {
-    "name": "blog.sensiple.com",
+    "name": "Blog.sensiple.com",
     "desc": "It is a blogging website for the company to gain visitors",
     "image": "blog",
     "category": "wordpress",
